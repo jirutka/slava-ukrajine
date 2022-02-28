@@ -16,6 +16,11 @@ link:{gh-raw-url}/ukrajinske-srdce.svg[[SVG]]
 image::ukrajinske-srdce.svg[]
 
 
+== Leták Stojíme za Ukrajinou
+
+link:{gh-raw-url}/letak-stojime-za-ukrajinou.pdf[[PDF (A4)]]
+
+
 == Licence
 
 Veškeré soubory v tomto repozitáři jsou uvolněny pod licencí https://creativecommons.org/publicdomain/zero/1.0/[CC0].
